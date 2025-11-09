@@ -4,10 +4,6 @@ A Python-based hybrid networking system that intelligently combines **Client-to-
 
 ---
 
-![System Overview](https://github.com/yourusername/Hybrid_C2S-P2P_FileSharing/assets/yourimageid/hybrid-overview.png)
-
----
-
 ## 🌐 Project Overview
 
 This system is built to simulate a real-world file-sharing architecture:
@@ -21,8 +17,6 @@ This hybrid design reduces server load and enhances the overall robustness and s
 
 ## ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,github,vscode" />
-
 - **Language**: Python 3.x  
 - **Networking**: TCP using Python's `socket` module  
 - **Concurrency**: Python `threading` for handling multiple connections  
@@ -30,6 +24,3 @@ This hybrid design reduces server load and enhances the overall robustness and s
 - **File Handling**: Binary transfer with EOF markers
 
 ---
-
-## 🗂️ Repository Structure
-
